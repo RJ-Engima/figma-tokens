@@ -154,7 +154,7 @@
           "type": "color"
         },
         "500": {
-          "value": "#00ff51",
+          "value": "#ff0000",
           "type": "color"
         },
         "600": {
@@ -208,7 +208,7 @@
           "type": "dimension"
         },
         "N 6": {
-          "value": "0.625rem",
+          "value": "1.25rem",
           "type": "dimension"
         }
       }
@@ -220,6 +220,10 @@
       "type": "color"
     },
     "Secondary": {
+      "value": "{colors.base.black}",
+      "type": "color"
+    },
+    "primary text": {
       "value": "{colors.base.black}",
       "type": "color"
     }
