@@ -1,9 +1,52 @@
 {
   "global": {},
+  "Primitives/Mode 1": {
+    "color": {
+      "purple": {
+        "100": {
+          "value": "#d6d3ff",
+          "type": "color"
+        },
+        "200": {
+          "value": "#d6d3ff",
+          "type": "color"
+        },
+        "300": {
+          "value": "#d6d3ff",
+          "type": "color"
+        },
+        "400": {
+          "value": "#d6d3ff",
+          "type": "color"
+        },
+        "500": {
+          "value": "#d6d3ff",
+          "type": "color"
+        },
+        "600": {
+          "value": "#d6d3ff",
+          "type": "color"
+        },
+        "700": {
+          "value": "#d6d3ff",
+          "type": "color"
+        },
+        "800": {
+          "value": "#d6d3ff",
+          "type": "color"
+        },
+        "900": {
+          "value": "#d6d3ff",
+          "type": "color"
+        }
+      }
+    }
+  },
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
-      "global"
+      "global",
+      "Primitives/Mode 1"
     ]
   }
 }
